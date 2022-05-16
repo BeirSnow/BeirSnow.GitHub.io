@@ -2,7 +2,8 @@
 layout: post
 title:  "Jekyll 环境搭建"
 date:   2022-05-13 15:30:19 +0800
-categories: jekyll update
+categories: Jekyll
+tags: Jekyll
 ---
 
 #### 一、下载 rubyinstaller 安装 Ruby
