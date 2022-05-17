@@ -74,4 +74,4 @@ $ gem install wdm --version=0.1.1
 ```
 
 ### 六、基础教程
-[jekyllcn](http://jekyllcn.com/)
+中文教程网站：[jekyllcn](http://jekyllcn.com/)
