@@ -10,7 +10,7 @@ tags: html
 ```html
 <!DOCTYPE html>
 ```
-DOCTYPE 是 document type 的缩写,DOCTYPE 声明位于 html 文档的最前面,用于告知浏览器用哪种规范解析该文档。`<!DOCTYPE html>` 即声明本文档为 HTML5 文档。
+DOCTYPE 是 document type 的缩写，DOCTYPE 声明位于 html 文档的最前面，用于告知浏览器用哪种规范解析该文档。`<!DOCTYPE html>` 即声明本文档为 HTML5 文档。
 
 ### 二、html 标签 - 根元素
 ```html
