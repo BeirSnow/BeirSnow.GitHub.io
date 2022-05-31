@@ -43,8 +43,7 @@ git submodule update
 >Install Python37 or late version (https://www.python.org/) to run python tool from source
 
 #### 3. 安装 NASM
-- 下载链接： [NASM](http://www.nasm.us/)
-**下载 Win32/Win64 的绿色包即可**
+- 下载链接： [NASM](http://www.nasm.us/)（**下载 Win32/Win64 的绿色包即可**）
 - 解压 "NASM" 文件夹至 C 盘根目录（最好是 C 盘根目录，免得出奇怪的问题）
 - 新建环境变量：
 ![NASM env](/assets/images/BIOS/EDKII-build-development-environment/NASM_env.png)
