@@ -10,7 +10,7 @@ tags: bios
 
 ### 一、收集错误日志
 ```bash
-e:\m6code\fuzhou_20210428_04_00\isbios\MdeModulePkg\Core\Dxe\Hand\DriverSupport.c(182): CR has Bad Signature
+e:\BIOS\MdeModulePkg\Core\Dxe\Hand\DriverSupport.c(182): CR has Bad Signature
 !!!! X64 Exception Type - 0D(#GP - General Protection)  CPU Apic ID - 00000000 !!!!
 ExceptionData - 0000000000000000
 RIP  - 000000006C686FFC, CS  - 0000000000000038, RFLAGS - 0000000000010216
@@ -29,7 +29,7 @@ DR3  - 0000000000000000, DR6 - 00000000FFFF0FF0, DR7 - 0000000000000400
 GDTR - 000000006BC89A98 0000000000000047, LDTR - 0000000000000000
 IDTR - 000000006495B018 0000000000000FFF,   TR - 0000000000000000
 FXSAVE_STATE - 000000006C680720
-!!!! Find image based on IP(0x6C686FFC) e:\m6code\fuzhou_20210428_04_00\isbios\Build\WilsonCity\DEBUG_VS2015\X64\MdeModulePkg\Core\Dxe\DxeMain\DEBUG\DxeCore.pdb (ImageBase=000000006C681000, EntryPoint=000000006C681C60) !!!!
+!!!! Find image based on IP(0x6C686FFC) e:\BIOS\Build\WilsonCity\DEBUG_VS2015\X64\MdeModulePkg\Core\Dxe\DxeMain\DEBUG\DxeCore.pdb (ImageBase=000000006C681000, EntryPoint=000000006C681C60) !!!!
 ```
 
 ### 二、找到导致 Exception 的源码
