@@ -8,7 +8,7 @@ tags: bios
 
 ### 一、获取 EDKII 源码
 #### 1. 获取源码：
-[github 源码链接](https://github.com/tianocore/edk2)
+[github 源码链接](https://github.com/tianocore/edk2)  
 推荐使用 `git clone --recursive https://github.com/tianocore/edk2.git` 直接把所有依赖全 clone 下来。不然可能会因 get submodules 不完整，遇到本文 (三 - 5) 中的问题：
 ```bash
 BrotliCompress.c(20): fatal error C1083: ޷򿪰ļ: ./brotli/c/common/constants.h: No such file or directory
